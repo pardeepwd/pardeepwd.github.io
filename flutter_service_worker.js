@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "8469b9530708115addbda53136660061",
-"index.html": "27af9a97e9d3194d6a0890821419215f",
-"/": "27af9a97e9d3194d6a0890821419215f",
+"index.html": "2b1b792342bad1fa573cbb0f3cb37b22",
+"/": "2b1b792342bad1fa573cbb0f3cb37b22",
 "main.dart.js": "99a93c3184dd1f9ee738e68b6bc709fd",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -59,7 +60,11 @@ const RESOURCES = {
 "assets/assets/Rectangle_22.png": "206f4e61d6ff15dda638e98bea1452e5",
 "assets/assets/Ellipse_7.png": "2c0f3e09f7dc91ee2976a443f6cff773",
 "assets/assets/Ellipse_6.png": "77b1b5abd433fc9d1a4fed51a3afcc9c",
-"assets/assets/erfgooierscollege_1.png": "bcd3c2b09f13d64162bda8d488b37452"
+"assets/assets/erfgooierscollege_1.png": "bcd3c2b09f13d64162bda8d488b37452",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
